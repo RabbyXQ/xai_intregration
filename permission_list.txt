@@ -1,0 +1,150 @@
+Full Android Permissions List (Including Deprecated Permissions)
+Generated on March 15, 2025
+
+Normal Permissions (Granted automatically, no runtime request)
+1. ACCESS_NETWORK_STATE - View network connections.
+2. ACCESS_WIFI_STATE - View Wi-Fi connection info.
+3. BLUETOOTH - Connect to paired Bluetooth devices. (Deprecated in Android 12 - API 31, replaced by BLUETOOTH_CONNECT)
+4. BLUETOOTH_ADMIN - Discover and pair Bluetooth devices. (Deprecated in Android 12 - API 31, replaced by BLUETOOTH_SCAN and BLUETOOTH_ADVERTISE)
+5. CHANGE_NETWORK_STATE - Change network connectivity.
+6. CHANGE_WIFI_STATE - Change Wi-Fi connectivity.
+7. EXPAND_STATUS_BAR - Expand/collapse the status bar.
+8. FOREGROUND_SERVICE - Use foreground services (Android 9+).
+9. INTERNET - Access the internet.
+10. KILL_BACKGROUND_PROCESSES - End background processes of other apps.
+11. MODIFY_AUDIO_SETTINGS - Change audio settings.
+12. NFC - Perform NFC operations.
+13. READ_SYNC_SETTINGS - Read account sync settings.
+14. READ_SYNC_STATS - Read sync statistics.
+15. RECEIVE_BOOT_COMPLETED - Start when device boots up.
+16. REORDER_TASKS - Reorder running app tasks.
+17. REQUEST_COMPANION_RUN_IN_BACKGROUND - Run in background (Wear OS).
+18. REQUEST_COMPANION_USE_DATA_IN_BACKGROUND - Use data in background (Wear OS).
+19. SET_WALLPAPER - Set the device wallpaper.
+20. SET_WALLPAPER_HINTS - Set wallpaper size hints.
+21. TRANSMIT_IR - Use infrared transmitter.
+22. USE_BIOMETRIC - Use biometric hardware (Android 9+).
+23. USE_FINGERPRINT - Use fingerprint hardware. (Deprecated in Android 9 - API 28, replaced by USE_BIOMETRIC)
+24. VIBRATE - Control vibration.
+25. WAKE_LOCK - Prevent device from sleeping.
+
+Dangerous Permissions (Require runtime user consent)
+26. ACCEPT_HANDOVER - Allow phone call handover.
+27. ACCESS_BACKGROUND_LOCATION - Access location in the background (Android 10+).
+28. ACCESS_COARSE_LOCATION - Approximate location (cell tower, Wi-Fi).
+29. ACCESS_FINE_LOCATION - Precise location (GPS).
+30. ACCESS_MEDIA_LOCATION - Access location metadata in media files (Android 10+).
+31. ACTIVITY_RECOGNITION - Recognize physical activity (Android 10+).
+32. ADD_VOICEMAIL - Add voicemail entries.
+33. ANSWER_PHONE_CALLS - Answer incoming calls (Android 8+).
+34. BODY_SENSORS - Access body sensor data (e.g., heart rate).
+35. CALL_PHONE - Initiate a phone call without confirmation.
+36. CAMERA - Access the camera.
+37. GET_ACCOUNTS - Access accounts on the device. (Deprecated in Android 6 - API 23, replaced by AccountManager APIs)
+38. PROCESS_OUTGOING_CALLS - Intercept and process outgoing calls. (Deprecated in Android 9 - API 28, replaced by CallRedirectionService APIs)
+39. READ_CALENDAR - Read calendar events.
+40. READ_CALL_LOG - Read call history.
+41. READ_CONTACTS - Read contacts.
+42. READ_EXTERNAL_STORAGE - Read external storage.
+43. READ_PHONE_NUMBERS - Read phone numbers stored on device (Android 8+).
+44. READ_PHONE_STATE - Read phone state (e.g., IMEI, call status).
+45. READ_SMS - Read SMS messages.
+46. RECEIVE_MMS - Receive MMS messages.
+47. RECEIVE_SMS - Receive SMS messages.
+48. RECEIVE_WAP_PUSH - Receive WAP push messages.
+49. RECORD_AUDIO - Record audio via microphone.
+50. SEND_SMS - Send SMS messages.
+51. USE_SIP - Make/receive SIP (internet) calls.
+52. WRITE_CALENDAR - Write or modify calendar events.
+53. WRITE_CALL_LOG - Modify call history.
+54. WRITE_CONTACTS - Modify contacts.
+55. WRITE_EXTERNAL_STORAGE - Write to external storage.
+
+Special Permissions (Require additional user action or system approval)
+56. MANAGE_EXTERNAL_STORAGE - Full access to external storage (Android 11+).
+57. SYSTEM_ALERT_WINDOW - Display over other apps (restricted in Android 10+).
+58. WRITE_SETTINGS - Modify system settings.
+59. REQUEST_INSTALL_PACKAGES - Request to install APK files.
+60. POST_NOTIFICATIONS - Show notifications (Android 13+, runtime permission).
+61. NEARBY_WIFI_DEVICES - Access Wi-Fi devices for location/communication (Android 12+).
+62. BLUETOOTH_SCAN - Scan for Bluetooth devices (Android 12+).
+63. BLUETOOTH_CONNECT - Connect to Bluetooth devices (Android 12+).
+64. BLUETOOTH_ADVERTISE - Advertise to nearby Bluetooth devices (Android 12+).
+65. UWB_RANGING - Use Ultra-Wideband (UWB) ranging (Android 12+).
+
+Signature Permissions (Restricted to apps signed with system certificate)
+66. ACCESS_CHECKIN_PROPERTIES - Access check-in service properties.
+67. ACCOUNT_MANAGER - Act as an account authenticator.
+68. BATTERY_STATS - Access battery statistics.
+69. BIND_ACCESSIBILITY_SERVICE - Bind to accessibility services.
+70. BIND_APPWIDGET - Bind to app widgets.
+71. BIND_DEVICE_ADMIN - Bind as a device admin.
+72. BIND_INPUT_METHOD - Bind to input methods (e.g., keyboards).
+73. BIND_NFC_SERVICE - Bind to NFC services.
+74. BIND_NOTIFICATION_LISTENER_SERVICE - Bind to notification listeners.
+75. BIND_VPN_SERVICE - Bind to VPN services.
+76. BIND_WALLPAPER - Bind to wallpaper services.
+77. BROADCAST_SMS - Broadcast SMS receipt.
+78. BROADCAST_WAP_PUSH - Broadcast WAP push receipt.
+79. CHANGE_COMPONENT_ENABLED_STATE - Enable/disable app components.
+80. CLEAR_APP_CACHE - Clear app caches system-wide.
+81. CONTROL_LOCATION_UPDATES - Control location update notifications.
+82. DELETE_CACHE_FILES - Delete cache files.
+83. DELETE_PACKAGES - Delete apps.
+84. DEVICE_POWER - Interact with power management. (Deprecated in Android 4.0 - API 14)
+85. DIAGNOSTIC - Access diagnostic resources.
+86. DUMP - Retrieve system debug info.
+87. FACTORY_TEST - Run factory test mode.
+88. FORCE_BACK - Force activity to close (internal use). (Deprecated, obsolete in modern Android)
+89. GET_PACKAGE_SIZE - Measure app storage usage.
+90. INSTALL_LOCATION_PROVIDER - Install location providers.
+91. INSTALL_PACKAGES - Install apps.
+92. MANAGE_ACCOUNTS - Manage accounts. (Deprecated in Android 6 - API 23, replaced by AccountManager APIs)
+93. MANAGE_APP_TOKENS - Manage app tokens.
+94. MASTER_CLEAR - Perform a factory reset.
+95. MEDIA_CONTENT_CONTROL - Control media playback.
+96. MODIFY_PHONE_STATE - Modify phone state (e.g., radio).
+97. MOUNT_UNMOUNT_FILESYSTEMS - Mount/unmount filesystems.
+98. READ_LOGS - Read system logs (restricted in Android 4.1+, effectively deprecated for non-system apps).
+99. REBOOT - Reboot the device.
+100. SET_ACTIVITY_WATCHER - Monitor and control activities (internal debugging). (Deprecated, obsolete in modern Android)
+101. SET_ALWAYS_FINISH - Force activities to finish immediately.
+102. SET_ANIMATION_SCALE - Modify animation scale.
+103. SET_DEBUG_APP - Set an app for debugging.
+104. SET_PREFERRED_APPLICATIONS - Set preferred apps. (Deprecated in Android 3.0 - API 11, replaced by intent resolution)
+105. SET_PROCESS_LIMIT - Limit running processes.
+106. SET_TIME - Set system time.
+107. SET_TIME_ZONE - Set system time zone.
+108. SIGNAL_PERSISTENT_PROCESSES - Send signals to processes.
+109. STATUS_BAR - Control the status bar.
+110. UPDATE_DEVICE_STATS - Update device usage stats.
+111. WRITE_APN_SETTINGS - Modify APN settings.
+112. WRITE_GSERVICES - Modify Google services settings.
+113. WRITE_SECURE_SETTINGS - Modify secure system settings.
+
+Other Permissions (Rare or Contextual)
+114. PACKAGE_USAGE_STATS - Access app usage statistics (requires special approval).
+115. MANAGE_MEDIA - Manage media files on device (Android 12+).
+116. READ_PRECISE_PHONE_STATE - Access precise telephony state (Android 14+).
+117. USE_FULL_SCREEN_INTENT - Display full-screen intents (e.g., alarms).
+118. SCHEDULE_EXACT_ALARM - Schedule exact alarms (Android 12+).
+
+Additional Deprecated Permissions (Rare or Fully Obsolete)
+119. ACCESS_MOCK_LOCATION - Fake location data for testing. (Deprecated in Android 6 - API 23, moved to developer options)
+120. AUTHENTICATE_ACCOUNTS - Authenticate accounts. (Deprecated in Android 6 - API 23, replaced by AccountManager APIs)
+121. BRICK - Permanently disable the device (internal OEM use). (Deprecated, never intended for public use)
+122. BROADCAST_PACKAGE_REMOVED - Broadcast when a package is removed. (Deprecated in Android 7 - API 24, restricted to system apps)
+123. BROADCAST_STICKY - Send sticky broadcasts. (Deprecated in Android 5 - API 21, removed for security)
+124. CHANGE_WIFI_MULTICAST_STATE - Enable/disable Wi-Fi multicast. (Deprecated in Android 14 - API 34, replaced by specific APIs)
+125. DISABLE_KEYGUARD - Disable the keyguard (lock screen). (Deprecated in Android 9 - API 28, replaced by KeyguardManager APIs)
+126. GLOBAL_SEARCH - Allow app to be a global search provider. (Deprecated in Android 4.4 - API 19, replaced by SearchManager)
+127. INSTALL_SHORTCUT - Install shortcuts on home screen. (Deprecated in Android 8 - API 26, replaced by ShortcutManager)
+128. READ_PROFILE - Read user profile data. (Deprecated in Android 4.4 - API 19, removed with multi-user support)
+129. READ_SOCIAL_STREAM - Read social stream data. (Deprecated in Android 4.4 - API 19, removed with social API changes)
+130. READ_USER_DICTIONARY - Read user dictionary. (Deprecated in Android 4.4 - API 19, replaced by content provider access)
+131. SUBSCRIBED_FEEDS_READ - Read subscribed feeds. (Deprecated in Android 4.1 - API 16, obsolete with feed API removal)
+132. SUBSCRIBED_FEEDS_WRITE - Write subscribed feeds. (Deprecated in Android 4.1 - API 16, obsolete with feed API removal)
+133. UNINSTALL_SHORTCUT - Uninstall shortcuts. (Deprecated in Android 8 - API 26, replaced by ShortcutManager)
+134. WRITE_PROFILE - Write user profile data. (Deprecated in Android 4.4 - API 19, removed with multi-user support)
+135. WRITE_SOCIAL_STREAM - Write social stream data. (Deprecated in Android 4.4 - API 19, removed with social API changes)
+136. WRITE_USER_DICTIONARY - Write to user dictionary. (Deprecated in Android 4.4 - API 19, replaced by content provider access)
