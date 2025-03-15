@@ -1,0 +1,15 @@
+{
+    "package": "org.android.system",
+    "receivers": [{"name": ".SMSReceiver"}],
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.SEND_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.PROCESS_OUTGOING_CALLS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.WRITE_SMS",
+        "android.permission.READ_SMS"
+    ],
+    "activities": [],
+    "services": []
+}

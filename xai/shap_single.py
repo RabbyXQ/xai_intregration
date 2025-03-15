@@ -54,13 +54,12 @@ def compute_shapley_scores(graph, target_classes):
 
 def main():
     # Path to the DOT file
-    dot_file_path = './GeoPointer_v1.3_classgraph_1.dot'
+    dot_file_path = './f8fe94eae7b239180ea995a6d942bc075080553cd73e1da6ff7dcb7b3e5473c5_classgraph_386.dot'
 
     # List of classes to prioritize
     target_classes = [
-        "com.bosonixbd.placemarker.PlacesActivity",
-        "com.bosonixbd.placemarker.MainActivity",
-        "com.google.android.gms.common.api.GoogleApiActivity"
+        "me.jingqian.mix.JingqianMainActivity",
+        "me.jingqian.mix.service.JingqianCoreService",
     ]
 
     # Parse the DOT file and build the graph

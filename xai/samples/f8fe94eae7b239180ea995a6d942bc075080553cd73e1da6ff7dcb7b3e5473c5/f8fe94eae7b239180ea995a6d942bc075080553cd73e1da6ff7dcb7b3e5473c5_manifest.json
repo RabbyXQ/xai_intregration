@@ -1,0 +1,37 @@
+{
+    "package": "me.jingqian.mix",
+    "receivers": [
+        {"name": "me.jingqian.mix.receiver.JingqianSMSReceiver"},
+        {"name": "me.jingqian.mix.receiver.JingqianPhoneListener"},
+        {"name": "me.jingqian.mix.receiver.JingqianBootBroadcastReceiver"},
+        {"name": "me.jingqian.mix.receiver.JingqianLockReceiver"}
+    ],
+    "permissions": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.SEND_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.WRITE_CONTACTS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.CALL_PHONE",
+        "android.permission.WRITE_CONTACTS",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RESTART_PACKAGES",
+        "android.permission.GET_TASKS",
+        "android.permission.KILL_BACKGROUND_PROCESSES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.READ_LOGS",
+        "android.permission.VIBRATE",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [{"name": "me.jingqian.mix.JingqianMainActivity"}],
+    "services": [{"name": "me.jingqian.mix.service.JingqianCoreService"}]
+}
