@@ -1,0 +1,59 @@
+{
+    "android.media": [
+      "android.media.AudioManager",
+      "android.media.AudioFocusRequest",
+      "android.media.AudioAttributes",
+      "android.media.MediaPlayer",
+      "android.media.SoundPool",
+      "android.media.AudioTrack",
+      "android.media.AudioRecord",
+      "android.media.RingtoneManager",
+      "android.media.ToneGenerator"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Handler",
+      "android.os.Vibrator"
+    ],
+    "android.provider": [
+      "android.provider.Settings",
+      "android.provider.Settings.System"
+    ],
+    "android.app": [
+      "android.app.NotificationManager"
+    ],
+    "java.util": [
+      "java.util.concurrent.ExecutorService",
+      "java.util.concurrent.Executors"
+    ],
+    "java.io": [
+      "java.io.InputStream",
+      "java.io.OutputStream"
+    ],
+    "java.sound": [],
+    "javax.sound": [],
+    "javax.sound.sampled": [
+      "javax.sound.sampled.AudioSystem",
+      "javax.sound.sampled.AudioInputStream",
+      "javax.sound.sampled.SourceDataLine",
+      "javax.sound.sampled.TargetDataLine",
+      "javax.sound.sampled.AudioFormat",
+      "javax.sound.sampled.DataLine",
+      "javax.sound.sampled.Mixer",
+      "javax.sound.sampled.Clip",
+      "javax.sound.sampled.Line"
+    ],
+    "javax.sound.midi": [
+      "javax.sound.midi.MidiSystem",
+      "javax.sound.midi.Synthesizer",
+      "javax.sound.midi.MidiChannel",
+      "javax.sound.midi.Soundbank",
+      "javax.sound.midi.Instrument",
+      "javax.sound.midi.Sequencer"
+    ]
+  }

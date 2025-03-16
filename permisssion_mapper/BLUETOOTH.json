@@ -1,0 +1,45 @@
+{
+    "android.bluetooth": [
+      "android.bluetooth.BluetoothAdapter",
+      "android.bluetooth.BluetoothDevice",
+      "android.bluetooth.BluetoothSocket",
+      "android.bluetooth.BluetoothServerSocket",
+      "android.bluetooth.BluetoothProfile",
+      "android.bluetooth.BluetoothHeadset",
+      "android.bluetooth.BluetoothA2dp",
+      "android.bluetooth.BluetoothHealth",
+      "android.bluetooth.BluetoothManager"
+    ],
+    "android.bluetooth.le": [
+      "android.bluetooth.le.BluetoothLeScanner",
+      "android.bluetooth.le.ScanResult",
+      "android.bluetooth.le.ScanCallback",
+      "android.bluetooth.le.BluetoothGatt",
+      "android.bluetooth.le.BluetoothGattCallback",
+      "android.bluetooth.le.BluetoothGattCharacteristic",
+      "android.bluetooth.le.BluetoothGattService",
+      "android.bluetooth.le.BluetoothGattDescriptor",
+      "android.bluetooth.le.ScanFilter",
+      "android.bluetooth.le.ScanSettings"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Handler",
+      "android.os.ParcelUuid"
+    ],
+    "java.util": [
+      "java.util.UUID"
+    ],
+    "java.io": [
+      "java.io.InputStream",
+      "java.io.OutputStream"
+    ],
+    "javax.net": [
+      "javax.net.SocketFactory"
+    ]
+  }

@@ -1,0 +1,60 @@
+{
+    "android.net.wifi": [
+      "android.net.wifi.WifiManager",
+      "android.net.wifi.WifiConfiguration",
+      "android.net.wifi.WifiNetworkSpecifier",
+      "android.net.wifi.WifiInfo",
+      "android.net.wifi.ScanResult",
+      "android.net.wifi.WifiManager.WifiLock",
+      "android.net.wifi.WifiManager.MulticastLock"
+    ],
+    "android.net.wifi.p2p": [
+      "android.net.wifi.p2p.WifiP2pManager",
+      "android.net.wifi.p2p.WifiP2pConfig",
+      "android.net.wifi.p2p.WifiP2pGroup",
+      "android.net.wifi.p2p.WifiP2pDevice",
+      "android.net.wifi.p2p.WifiP2pInfo",
+      "android.net.wifi.p2p.WifiP2pManager.Channel",
+      "android.net.wifi.p2p.WifiP2pManager.ActionListener",
+      "android.net.wifi.p2p.WifiP2pManager.PeerListListener",
+      "android.net.wifi.p2p.WifiP2pManager.ChannelListener"
+    ],
+    "android.net.wifi.hotspot2": [
+      "android.net.wifi.hotspot2.WifiHotspot2Manager",
+      "android.net.wifi.hotspot2.WifiHotspot2Config"
+    ],
+    "android.net": [
+      "android.net.ConnectivityManager",
+      "android.net.Network",
+      "android.net.NetworkCapabilities",
+      "android.net.NetworkRequest",
+      "android.net.NetworkRequest.Builder",
+      "android.net.NetworkCallback"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.NetworkOnMainThreadException"
+    ],
+    "android.provider": [
+      "android.provider.Settings"
+    ],
+    "java.net": [
+      "java.net.URL",
+      "java.net.HttpURLConnection",
+      "java.net.Socket",
+      "java.net.InetAddress",
+      "java.net.DatagramSocket",
+      "java.net.ServerSocket",
+      "java.net.NetworkInterface"
+    ],
+    "javax.net": [
+      "javax.net.ssl.HttpsURLConnection",
+      "javax.net.ssl.SSLSocket",
+      "javax.net.SocketFactory"
+    ]
+  }

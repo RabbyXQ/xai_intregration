@@ -1,0 +1,120 @@
+{
+    "android.net": [
+      "android.net.ConnectivityManager",
+      "android.net.Network",
+      "android.net.NetworkCapabilities",
+      "android.net.NetworkInfo",
+      "android.net.LinkProperties",
+      "android.net.NetworkRequest",
+      "android.net.NetworkRequest.Builder",
+      "android.net.NetworkCallback",
+      "android.net.DhcpInfo",
+      "android.net.NetworkStatsManager",
+      "android.net.NetworkStats",
+      "android.net.Uri",
+      "android.net.DnsResolver",
+      "android.net.NetworkPolicyManager",
+      "android.net.NetworkMonitor"
+    ],
+    "android.net.wifi": [
+      "android.net.wifi.WifiManager",
+      "android.net.wifi.WifiInfo",
+      "android.net.wifi.WifiConfiguration",
+      "android.net.wifi.WifiNetworkSpecifier",
+      "android.net.wifi.WifiConnectionStats"
+    ],
+    "android.net.wifi.p2p": [
+      "android.net.wifi.p2p.WifiP2pManager",
+      "android.net.wifi.p2p.WifiP2pConfig",
+      "android.net.wifi.p2p.WifiP2pGroup",
+      "android.net.wifi.p2p.WifiP2pDevice",
+      "android.net.wifi.p2p.WifiP2pInfo",
+      "android.net.wifi.p2p.WifiP2pManager.Channel"
+    ],
+    "android.net.wifi.aware": [
+      "android.net.wifi.aware.WifiAwareManager",
+      "android.net.wifi.aware.WifiAwareSession",
+      "android.net.wifi.aware.WifiAwareNetworkSpecifier",
+      "android.net.wifi.aware.PublishConfig",
+      "android.net.wifi.aware.SubscribeConfig"
+    ],
+    "android.net.wifi.rtt": [
+      "android.net.wifi.rtt.WifiRttManager",
+      "android.net.wifi.rtt.RangingRequest",
+      "android.net.wifi.rtt.RangingResult",
+      "android.net.wifi.rtt.RangingResponse"
+    ],
+    "android.net.wifi.hotspot2": [
+      "android.net.wifi.hotspot2.WifiHotspot2Manager",
+      "android.net.wifi.hotspot2.WifiHotspot2Config"
+    ],
+    "android.net.nsd": [
+      "android.net.nsd.NsdManager",
+      "android.net.nsd.NsdServiceInfo",
+      "android.net.nsd.NsdManager.DiscoveryListener",
+      "android.net.nsd.NsdManager.ResolveListener",
+      "android.net.nsd.NsdManager.RegistrationListener"
+    ],
+    "android.net.sip": [
+      "android.net.sip.SipManager",
+      "android.net.sip.SipProfile",
+      "android.net.sip.SipConnectionService"
+    ],
+    "android.net.vpn": [
+      "android.net.VpnService",
+      "android.net.VpnService.Builder"
+    ],
+    "android.net.http": [
+      "android.net.http.HttpResponseCache"
+    ],
+    "android.telephony": [
+      "android.telephony.TelephonyManager",
+      "android.telephony.SubscriptionManager",
+      "android.telephony.CellInfo",
+      "android.telephony.CellSignalStrength",
+      "android.telephony.ServiceState",
+      "android.telephony.CellLocation",
+      "android.telephony.SignalStrength"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.NetworkOnMainThreadException",
+      "android.os.NetworkStats"
+    ],
+    "android.app": [
+      "android.app.DownloadManager",
+      "android.app.job.JobScheduler",
+      "android.app.job.JobInfo"
+    ],
+    "android.provider": [
+      "android.provider.Settings"
+    ],
+    "java.net": [
+      "java.net.URL",
+      "java.net.HttpURLConnection",
+      "java.net.Socket",
+      "java.net.InetAddress",
+      "java.net.DatagramSocket",
+      "java.net.ServerSocket"
+    ],
+    "javax.net": [
+      "javax.net.ssl.HttpsURLConnection",
+      "javax.net.ssl.SSLSocket"
+    ],
+    "android.webkit": [
+      "android.webkit.WebView",
+      "android.webkit.WebSettings",
+      "android.webkit.WebViewClient",
+      "android.webkit.WebChromeClient"
+    ],
+    "com.google.android.gms.maps": [
+      "com.google.android.gms.maps.GoogleMap",
+      "com.google.android.gms.maps.MapView",
+      "com.google.android.gms.maps.SupportMapFragment"
+    ]
+  }

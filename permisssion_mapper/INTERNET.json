@@ -1,0 +1,91 @@
+{
+    "android.net": [
+      "android.net.ConnectivityManager",
+      "android.net.Network",
+      "android.net.NetworkCapabilities",
+      "android.net.NetworkInfo",
+      "android.net.NetworkRequest",
+      "android.net.NetworkCallback",
+      "android.net.Uri",
+      "android.net.DnsResolver",
+      "android.net.http.HttpResponseCache"
+    ],
+    "android.net.wifi": [
+      "android.net.wifi.WifiManager",
+      "android.net.wifi.WifiInfo",
+      "android.net.wifi.WifiConfiguration"
+    ],
+    "android.net.wifi.p2p": [
+      "android.net.wifi.p2p.WifiP2pManager",
+      "android.net.wifi.p2p.WifiP2pInfo"
+    ],
+    "android.net.nsd": [
+      "android.net.nsd.NsdManager",
+      "android.net.nsd.NsdServiceInfo"
+    ],
+    "android.net.sip": [
+      "android.net.sip.SipManager",
+      "android.net.sip.SipProfile",
+      "android.net.sip.SipConnectionService"
+    ],
+    "android.net.vpn": [
+      "android.net.VpnService",
+      "android.net.VpnService.Builder"
+    ],
+    "android.net.rtp": [
+      "android.net.rtp.AudioStream",
+      "android.net.rtp.VideoStream"
+    ],
+    "android.webkit": [
+      "android.webkit.WebView",
+      "android.webkit.WebSettings",
+      "android.webkit.WebViewClient",
+      "android.webkit.WebChromeClient",
+      "android.webkit.WebResourceRequest",
+      "android.webkit.WebResourceResponse"
+    ],
+    "android.app": [
+      "android.app.DownloadManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.NetworkOnMainThreadException"
+    ],
+    "java.net": [
+      "java.net.URL",
+      "java.net.HttpURLConnection",
+      "java.net.Socket",
+      "java.net.InetAddress",
+      "java.net.DatagramSocket",
+      "java.net.ServerSocket",
+      "java.net.NetworkInterface",
+      "java.net.URI",
+      "java.net.URLConnection",
+      "java.net.MulticastSocket",
+      "java.net.SocketException"
+    ],
+    "javax.net": [
+      "javax.net.ssl.HttpsURLConnection",
+      "javax.net.ssl.SSLSocket",
+      "javax.net.ssl.SSLSocketFactory",
+      "javax.net.SocketFactory",
+      "javax.net.ssl.SSLContext"
+    ],
+    "java.io": [
+      "java.io.InputStream",
+      "java.io.OutputStream",
+      "java.io.BufferedReader",
+      "java.io.InputStreamReader",
+      "java.io.OutputStreamWriter"
+    ],
+    "com.google.android.gms.maps": [
+      "com.google.android.gms.maps.GoogleMap",
+      "com.google.android.gms.maps.MapView",
+      "com.google.android.gms.maps.SupportMapFragment"
+    ]
+  }

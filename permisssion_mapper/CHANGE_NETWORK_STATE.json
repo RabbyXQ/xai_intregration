@@ -1,0 +1,50 @@
+{
+    "android.net": [
+      "android.net.ConnectivityManager",
+      "android.net.Network",
+      "android.net.NetworkCapabilities",
+      "android.net.NetworkRequest",
+      "android.net.NetworkRequest.Builder",
+      "android.net.NetworkCallback",
+      "android.net.NetworkInfo"
+    ],
+    "android.net.wifi": [
+      "android.net.wifi.WifiManager",
+      "android.net.wifi.WifiConfiguration",
+      "android.net.wifi.WifiNetworkSpecifier"
+    ],
+    "android.net.vpn": [
+      "android.net.VpnService",
+      "android.net.VpnService.Builder"
+    ],
+    "android.telephony": [
+      "android.telephony.TelephonyManager",
+      "android.telephony.SubscriptionManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.NetworkOnMainThreadException"
+    ],
+    "android.provider": [
+      "android.provider.Settings"
+    ],
+    "java.net": [
+      "java.net.URL",
+      "java.net.HttpURLConnection",
+      "java.net.Socket",
+      "java.net.InetAddress",
+      "java.net.DatagramSocket",
+      "java.net.ServerSocket",
+      "java.net.NetworkInterface"
+    ],
+    "javax.net": [
+      "javax.net.ssl.HttpsURLConnection",
+      "javax.net.ssl.SSLSocket",
+      "javax.net.SocketFactory"
+    ]
+  }

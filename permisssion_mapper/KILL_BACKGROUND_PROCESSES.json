@@ -1,0 +1,12 @@
+{
+    "android.app": [
+      "android.app.ActivityManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent"
+    ],
+    "android.os": [
+      "android.os.Process"
+    ]
+  }

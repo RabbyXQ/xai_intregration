@@ -1,0 +1,17 @@
+{
+    "android.app": [
+      "android.app.StatusBarManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent"
+    ],
+    "android.os": [
+      "android.os.ServiceManager"
+    ],
+    "android.view": [
+      "android.view.Window",
+      "android.view.WindowManager",
+      "android.view.View"
+    ]
+  }

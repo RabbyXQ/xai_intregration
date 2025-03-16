@@ -1,0 +1,28 @@
+{
+    "android.content": [
+      "android.content.ContentResolver",
+      "android.content.Context",
+      "android.content.SyncAdapterType",
+      "android.content.SyncInfo",
+      "android.content.SyncStatusObserver",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.IntentFilter"
+    ],
+    "android.accounts": [
+      "android.accounts.Account",
+      "android.accounts.AccountManager"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Handler"
+    ],
+    "android.provider": [
+      "android.provider.Settings",
+      "android.provider.Settings.System"
+    ],
+    "java.util": [
+      "java.util.List",
+      "java.util.ArrayList"
+    ]
+  }

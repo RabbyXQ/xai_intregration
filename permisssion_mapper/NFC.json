@@ -1,0 +1,40 @@
+{
+    "android.nfc": [
+      "android.nfc.NfcAdapter",
+      "android.nfc.NfcManager",
+      "android.nfc.Tag",
+      "android.nfc.NdefMessage",
+      "android.nfc.NdefRecord",
+      "android.nfc.NfcEvent",
+      "android.nfc.tech.NfcA",
+      "android.nfc.tech.NfcB",
+      "android.nfc.tech.NfcF",
+      "android.nfc.tech.NfcV",
+      "android.nfc.tech.IsoDep",
+      "android.nfc.tech.MifareClassic",
+      "android.nfc.tech.MifareUltralight",
+      "android.nfc.tech.Ndef",
+      "android.nfc.tech.NdefFormatable"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.IntentFilter"
+    ],
+    "android.app": [
+      "android.app.Activity",
+      "android.app.PendingIntent"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Handler",
+      "android.os.Parcel"
+    ],
+    "java.io": [
+      "java.io.IOException"
+    ],
+    "java.util": [
+      "java.util.Arrays"
+    ]
+  }
