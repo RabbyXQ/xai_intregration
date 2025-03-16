@@ -1,0 +1,30 @@
+{
+    "android.media": [
+        "android.media.MediaScannerConnection",
+        "android.media.MediaMetadataRetriever",
+        "android.media.MediaStore",
+        "android.media.MediaRecorder",
+        "android.media.ExifInterface"
+    ],
+    "android.provider": [
+        "android.provider.MediaStore"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.ContentResolver",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+        "android.os.Environment",
+        "android.os.Bundle"
+    ],
+    "java.io": [
+        "java.io.File",
+        "java.io.FileInputStream",
+        "java.io.FileOutputStream"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

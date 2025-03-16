@@ -1,0 +1,33 @@
+{
+    "android.companion": [
+        "android.companion.CompanionDeviceManager",
+        "android.companion.AssociationRequest"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver",
+        "android.content.IntentFilter"
+    ],
+    "android.os": [
+        "android.os.PowerManager",
+        "android.os.Handler",
+        "android.os.Looper"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service",
+        "android.app.PendingIntent"
+    ],
+    "android.util": [
+        "android.util.Log"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Thread",
+        "java.lang.Runnable"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

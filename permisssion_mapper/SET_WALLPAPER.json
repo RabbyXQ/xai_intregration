@@ -1,0 +1,23 @@
+{
+    "android.app": [
+        "android.app.WallpaperManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver",
+        "android.content.IntentFilter"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "android.provider": [
+        "android.provider.Settings"
+    ],
+    "android.util": [
+        "android.util.Log"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

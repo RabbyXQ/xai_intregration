@@ -1,0 +1,31 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.SubscriptionManager",
+        "android.telephony.CellInfo",
+        "android.telephony.CellSignalStrength",
+        "android.telephony.ServiceState",
+        "android.telephony.SignalStrength",
+        "android.telephony.PhoneStateListener"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service",
+        "android.app.NotificationManager"
+    ],
+    "android.net": [
+        "android.net.Uri"
+    ],
+    "java.net": [
+        "java.net.URL"
+    ],
+    "android.provider": [
+        "android.provider.Telephony",
+        "android.provider.ContactsContract"
+    ]
+}

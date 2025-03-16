@@ -1,0 +1,20 @@
+{
+    "android.location": [
+        "android.location.LocationManager",
+        "android.location.Location",
+        "android.location.Criteria",
+        "android.location.GpsStatus",
+        "android.location.LocationListener"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.SharedPreferences",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

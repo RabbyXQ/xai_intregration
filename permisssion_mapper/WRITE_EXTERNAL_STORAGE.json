@@ -1,0 +1,23 @@
+{
+    "android.os": [
+      "android.os.Environment",
+      "android.os.StatFs"
+    ],
+    "android.content": [
+      "android.content.ContentResolver",
+      "android.content.Context"
+    ],
+    "android.provider": [
+      "android.provider.MediaStore"
+    ],
+    "java.io": [
+      "java.io.File",
+      "java.io.FileOutputStream",
+      "java.io.FileWriter",
+      "java.io.BufferedWriter"
+    ],
+    "javax.crypto": [
+      "javax.crypto.Cipher"
+    ]
+  }
+  

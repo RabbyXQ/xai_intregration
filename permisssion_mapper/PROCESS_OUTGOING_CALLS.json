@@ -1,0 +1,25 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.PhoneStateListener"
+    ],
+    "android.content": [
+        "android.content.BroadcastReceiver",
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.IntentFilter"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "android.app": [
+        "android.app.Activity"
+    ],
+    "android.provider": [
+        "android.provider.CallLog",
+        "android.provider.ContactsContract"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

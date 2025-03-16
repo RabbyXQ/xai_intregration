@@ -1,0 +1,14 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.TelephonyCallback",
+        "android.telephony.TelephonyManager.HandoverCallback"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

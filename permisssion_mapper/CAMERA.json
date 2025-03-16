@@ -1,0 +1,43 @@
+{
+    "android.hardware.camera": [
+        "android.hardware.Camera",
+        "android.hardware.Camera.Parameters",
+        "android.hardware.Camera.Size",
+        "android.hardware.camera2.CameraCaptureSession",
+        "android.hardware.camera2.CameraDevice",
+        "android.hardware.camera2.CameraManager",
+        "android.hardware.camera2.CaptureRequest",
+        "android.hardware.camera2.CameraCharacteristics",
+        "android.hardware.camera2.CaptureResult",
+        "android.hardware.camera2.CameraMetadata"
+    ],
+    "android.media": [
+        "android.media.Image",
+        "android.media.ImageReader",
+        "android.media.MediaRecorder",
+        "android.media.MediaPlayer"
+    ],
+    "android.view": [
+        "android.view.Surface",
+        "android.view.SurfaceView"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Fragment",
+        "android.app.Service"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Handler",
+        "android.os.Looper"
+    ],
+    "java.io": [
+        "java.io.File",
+        "java.io.FileOutputStream"
+    ]
+}

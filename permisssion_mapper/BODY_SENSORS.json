@@ -1,0 +1,30 @@
+{
+    "android.hardware": [
+        "android.hardware.Sensor",
+        "android.hardware.SensorEvent",
+        "android.hardware.SensorEventListener",
+        "android.hardware.SensorManager",
+        "android.hardware.camera2.CameraCaptureSession"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.BroadcastReceiver",
+        "android.content.Intent",
+        "android.content.IntentFilter"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service",
+        "android.app.NotificationManager"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Handler"
+    ],
+    "android.provider": [
+        "android.provider.Settings"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

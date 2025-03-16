@@ -1,0 +1,26 @@
+{
+    "android.media": [
+      "android.media.AudioRecord",
+      "android.media.MediaRecorder"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.permission": [
+      "android.permission.PermissionManager"
+    ],
+    "java.io": [
+      "java.io.IOException"
+    ],
+    "javax.sound": [
+      "javax.sound.sampled.AudioFormat",
+      "javax.sound.sampled.AudioSystem",
+      "javax.sound.sampled.TargetDataLine"
+    ]
+  }
+  

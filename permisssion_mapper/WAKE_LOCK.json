@@ -1,0 +1,12 @@
+{
+    "android.os": [
+        "android.os.PowerManager",
+        "android.os.PowerManager.WakeLock"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

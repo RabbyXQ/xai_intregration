@@ -1,0 +1,22 @@
+{
+    "android.provider": [
+      "android.provider.ContactsContract",
+      "android.provider.ContactsContract.Contacts",
+      "android.provider.ContactsContract.CommonDataKinds.Phone",
+      "android.provider.ContactsContract.RawContacts"
+    ],
+    "android.content": [
+      "android.content.ContentResolver",
+      "android.content.ContentProviderOperation"
+    ],
+    "android.database": [
+      "android.database.Cursor"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.util": [
+      "java.util.ArrayList"
+    ]
+  }
+  

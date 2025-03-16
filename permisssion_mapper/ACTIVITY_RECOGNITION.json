@@ -1,0 +1,35 @@
+{
+    "android.app": [
+        "android.app.usage.UsageStatsManager",
+        "android.app.Activity",
+        "android.app.Service"
+    ],
+    "android.hardware": [
+        "android.hardware.Sensor",
+        "android.hardware.SensorEvent",
+        "android.hardware.SensorEventListener"
+    ],
+    "android.location": [
+        "android.location.Location",
+        "android.location.LocationListener",
+        "android.location.LocationManager"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Looper"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "com.google.android.gms.fitness": [
+        "com.google.android.gms.fitness.Fitness",
+        "com.google.android.gms.fitness.data.DataSet",
+        "com.google.android.gms.fitness.data.DataType",
+        "com.google.android.gms.fitness.result.DailyTotalResult"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "android.accounts": [
+        "android.accounts.Account",
+        "android.accounts.AccountManager",
+        "android.accounts.AccountManagerCallback",
+        "android.accounts.AccountManagerFuture"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "android.provider": [
+        "android.provider.ContactsContract"
+    ],
+    "java.util": [
+        "java.util.List"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service"
+    ]
+}

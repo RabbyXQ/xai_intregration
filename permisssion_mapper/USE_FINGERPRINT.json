@@ -1,0 +1,19 @@
+{
+    "android.hardware.fingerprint": [
+        "android.hardware.fingerprint.FingerprintManager",
+        "android.hardware.fingerprint.FingerprintManager.AuthenticationCallback",
+        "android.hardware.fingerprint.FingerprintManager.CryptoObject"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Integer"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "android.telephony": [
+      "android.telephony.SmsManager",
+      "android.telephony.SmsMessage",
+      "android.telephony.TelephonyManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.provider": [
+      "android.provider.Telephony.Sms"
+    ],
+    "java.io": [
+      "java.io.IOException"
+    ],
+    "javax.net": [
+      "javax.net.ssl.HttpsURLConnection"
+    ]
+  }
+  

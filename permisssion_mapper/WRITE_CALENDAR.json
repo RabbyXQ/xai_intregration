@@ -1,0 +1,26 @@
+{
+    "android.provider": [
+      "android.provider.CalendarContract",
+      "android.provider.CalendarContract.Events",
+      "android.provider.CalendarContract.Reminders",
+      "android.provider.CalendarContract.Instances"
+    ],
+    "android.content": [
+      "android.content.ContentResolver",
+      "android.content.ContentProviderOperation"
+    ],
+    "android.database": [
+      "android.database.Cursor"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.util": [
+      "java.util.Date",
+      "java.util.Calendar"
+    ],
+    "javax.sql": [
+      "javax.sql.DataSource"
+    ]
+  }
+  

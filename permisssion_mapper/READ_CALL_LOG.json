@@ -1,0 +1,17 @@
+{
+    "android.provider": [
+        "android.provider.CallLog",
+        "android.provider.CallLog.Calls"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.Context",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.database": [
+        "android.database.Cursor"
+    ],
+    "java.util": [
+        "java.util.Date"
+    ]
+}

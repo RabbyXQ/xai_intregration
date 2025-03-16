@@ -1,0 +1,24 @@
+{
+    "android.net.sip": [
+      "android.net.sip.SipManager",
+      "android.net.sip.SipProfile",
+      "android.net.sip.SipConnectionService",
+      "android.net.sip.SipAudioCall",
+      "android.net.sip.SipErrorCode"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "javax.sip": [
+      "javax.sip.SipFactory",
+      "javax.sip.SipProvider",
+      "javax.sip.message.MessageFactory",
+      "javax.sip.header.HeaderFactory"
+    ]
+  }
+  

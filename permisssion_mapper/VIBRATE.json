@@ -1,0 +1,12 @@
+{
+    "android.os": [
+        "android.os.VibrationEffect",
+        "android.os.Vibrator"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

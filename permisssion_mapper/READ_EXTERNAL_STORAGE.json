@@ -1,0 +1,29 @@
+{
+    "android.os": [
+        "android.os.Environment",
+        "android.os.ParcelFileDescriptor"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.ContentResolver",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.provider": [
+        "android.provider.MediaStore",
+        "android.provider.DocumentsContract",
+        "android.provider.OpenableColumns"
+    ],
+    "android.database": [
+        "android.database.Cursor"
+    ],
+    "java.io": [
+        "java.io.File",
+        "java.io.FileInputStream",
+        "java.io.FileOutputStream",
+        "java.io.IOException"
+    ],
+    "java.nio": [
+        "java.nio.file.Files",
+        "java.nio.file.Paths"
+    ]
+}

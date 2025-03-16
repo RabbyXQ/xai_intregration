@@ -1,0 +1,56 @@
+{
+    "android.net": [
+      "android.net.ConnectivityManager",
+      "android.net.Network",
+      "android.net.NetworkCapabilities",
+      "android.net.NetworkInfo",
+      "android.net.LinkProperties",
+      "android.net.NetworkRequest",
+      "android.net.NetworkRequest.Builder",
+      "android.net.NetworkCallback",
+      "android.net.DhcpInfo",
+      "android.net.NetworkStatsManager",
+      "android.net.NetworkStats",
+      "android.net.Uri",
+      "android.net.DnsResolver",
+      "android.net.NetworkPolicyManager",
+      "android.net.NetworkMonitor"
+    ],
+    "android.telephony": [
+      "android.telephony.TelephonyManager",
+      "android.telephony.SubscriptionManager",
+      "android.telephony.CellInfo",
+      "android.telephony.CellSignalStrength",
+      "android.telephony.ServiceState",
+      "android.telephony.CellLocation",
+      "android.telephony.SignalStrength"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.NetworkOnMainThreadException",
+      "android.os.NetworkStats"
+    ],
+    "java.net": [
+      "java.net.URL",
+      "java.net.HttpURLConnection",
+      "java.net.Socket",
+      "java.net.InetAddress",
+      "java.net.DatagramSocket",
+      "java.net.ServerSocket"
+    ],
+    "javax.net": [
+      "javax.net.ssl.HttpsURLConnection",
+      "javax.net.ssl.SSLSocket"
+    ],
+    "android.app": [
+      "android.app.DownloadManager",
+      "android.app.job.JobScheduler",
+      "android.app.job.JobInfo"
+    ]
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.PhoneStateListener"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "android.provider": [
+        "android.provider.ContactsContract"
+    ]
+}

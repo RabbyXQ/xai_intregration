@@ -1,0 +1,32 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.PhoneStateListener",
+        "android.telephony.ServiceState",
+        "android.telephony.Call",
+        "android.telephony.gsm.SmsMessage",
+        "android.telephony.gsm.GsmCellLocation",
+        "android.telephony.gsm.SmsManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.BroadcastReceiver",
+        "android.content.Intent",
+        "android.content.IntentFilter"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.NotificationManager"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Handler"
+    ],
+    "android.provider": [
+        "android.provider.CallLog",
+        "android.provider.Telephony"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

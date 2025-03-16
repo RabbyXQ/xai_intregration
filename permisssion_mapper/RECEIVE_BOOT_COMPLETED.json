@@ -1,0 +1,53 @@
+{
+    "android.content": [
+        "android.content.BroadcastReceiver",
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.IntentFilter",
+        "android.content.SharedPreferences",
+        "android.content.ComponentName"
+    ],
+    "android.app": [
+        "android.app.Service",
+        "android.app.Activity",
+        "android.app.Application",
+        "android.app.AlarmManager",
+        "android.app.PendingIntent",
+        "android.app.NotificationManager"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Handler",
+        "android.os.Looper",
+        "android.os.PowerManager"
+    ],
+    "androidx.core": [
+        "androidx.core.app.JobIntentService",
+        "androidx.core.content.ContextCompat"
+    ],
+    "androidx.work": [
+        "androidx.work.WorkManager",
+        "androidx.work.OneTimeWorkRequest",
+        "androidx.work.PeriodicWorkRequest"
+    ],
+    "java.util": [
+        "java.util.Timer",
+        "java.util.TimerTask",
+        "java.util.concurrent.ExecutorService",
+        "java.util.concurrent.Executors"
+    ],
+    "java.io": [
+        "java.io.File",
+        "java.io.FileInputStream",
+        "java.io.FileOutputStream",
+        "java.io.IOException"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Thread",
+        "java.lang.Runnable"
+    ],
+    "javax.security.auth": [
+        "javax.security.auth.Subject"
+    ]
+}

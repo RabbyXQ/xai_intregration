@@ -1,0 +1,29 @@
+{
+    "android.telephony": [
+        "android.telephony.PhoneStateListener",
+        "android.telephony.TelephonyManager",
+        "android.telephony.SmsManager",
+        "android.telephony.gsm.SmsMessage"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.BroadcastReceiver",
+        "android.content.ContentResolver",
+        "android.content.Intent",
+        "android.content.IntentFilter"
+    ],
+    "android.provider": [
+        "android.provider.VoicemailContract"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Parcel"
+    ],
+    "android.app": [
+        "android.app.NotificationManager",
+        "android.app.Notification"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

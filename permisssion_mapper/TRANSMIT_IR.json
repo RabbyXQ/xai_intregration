@@ -1,0 +1,16 @@
+{
+    "android.hardware": [
+        "android.hardware.ConsumerIrManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Integer"
+    ]
+}

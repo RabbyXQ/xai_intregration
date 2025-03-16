@@ -1,0 +1,24 @@
+{
+    "android.app": [
+        "android.app.Activity",
+        "android.app.ActivityManager",
+        "android.app.TaskStackBuilder"
+    ],
+    "android.content": [
+        "android.content.Intent",
+        "android.content.ComponentName",
+        "android.content.Context"
+    ],
+    "android.view": [
+        "android.view.Window",
+        "android.view.WindowManager"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Thread",
+        "java.lang.Runnable"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

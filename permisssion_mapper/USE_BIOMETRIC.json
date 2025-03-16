@@ -1,0 +1,20 @@
+{
+    "android.hardware.biometrics": [
+        "android.hardware.biometrics.BiometricManager",
+        "android.hardware.biometrics.BiometricPrompt",
+        "android.hardware.biometrics.BiometricPrompt.AuthenticationCallback",
+        "android.hardware.biometrics.BiometricManager.Authenticators"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Integer"
+    ]
+}

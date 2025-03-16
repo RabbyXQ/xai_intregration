@@ -1,0 +1,30 @@
+{
+    "android.telephony": [
+      "android.telephony.SmsManager",
+      "android.telephony.SmsMessage",
+      "android.telephony.SmsMessage.SubmitPdu",
+      "android.telephony.SmsMessage.Pdu",
+      "android.telephony.SmsMessage",
+      "android.telephony.SmsManager",
+      "android.telephony.SmsReceiver"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.provider": [
+      "android.provider.Telephony",
+      "android.provider.Telephony.Sms",
+      "android.provider.Telephony.Mms",
+      "android.provider.Telephony.Sms.Conversations"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.util": [
+      "java.util.List"
+    ]
+  }
+  

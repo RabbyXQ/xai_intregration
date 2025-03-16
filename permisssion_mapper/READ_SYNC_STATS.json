@@ -1,0 +1,34 @@
+{
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.SyncInfo",
+        "android.content.SyncStatusObserver"
+    ],
+    "android.provider": [
+        "android.provider.Settings"
+    ],
+    "android.os": [
+        "android.os.Bundle",
+        "android.os.Handler",
+        "android.os.Looper"
+    ],
+    "android.accounts": [
+        "android.accounts.Account",
+        "android.accounts.AccountManager"
+    ],
+    "java.util": [
+        "java.util.List",
+        "java.util.HashMap",
+        "java.util.Map"
+    ],
+    "java.io": [
+        "java.io.Serializable"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Object"
+    ],
+    "javax.security.auth": [
+        "javax.security.auth.login.AccountNotFoundException"
+    ]
+}
