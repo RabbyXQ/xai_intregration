@@ -1,0 +1,23 @@
+{
+    "android.app": [
+        "android.app.AlarmManager",
+        "android.app.PendingIntent",
+        "android.app.Activity"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.os": [
+        "android.os.SystemClock",
+        "android.os.PowerManager"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Long"
+    ],
+    "java.util": [
+        "java.util.Calendar",
+        "java.util.Date"
+    ]
+}

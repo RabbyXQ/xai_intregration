@@ -1,0 +1,14 @@
+{
+    "android.telephony": [
+        "android.telephony.VisualVoicemailService",
+        "android.telephony.VisualVoicemailSms",
+        "android.telephony.VisualVoicemailService.VisualVoicemailTask"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

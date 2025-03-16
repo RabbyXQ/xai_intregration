@@ -1,0 +1,25 @@
+{
+    "android.os": [
+        "android.os.UserHandle",
+        "android.os.UserManager"
+    ],
+    "android.content.pm": [
+        "android.content.pm.PackageManager",
+        "android.content.pm.CrossProfileApps"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service",
+        "android.app.NotificationManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.app.usage": [
+        "android.app.usage.UsageStatsManager"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

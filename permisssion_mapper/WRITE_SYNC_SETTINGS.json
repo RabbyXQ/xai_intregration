@@ -1,0 +1,18 @@
+{
+    "android.accounts": [
+        "android.accounts.Account",
+        "android.accounts.AccountManager"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.Context",
+        "android.content.SyncAdapterType"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String",
+        "java.lang.Boolean"
+    ]
+}

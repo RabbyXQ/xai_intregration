@@ -1,0 +1,13 @@
+{
+    "android.service.quicksettings": [
+        "android.service.quicksettings.Tile",
+        "android.service.quicksettings.TileService"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

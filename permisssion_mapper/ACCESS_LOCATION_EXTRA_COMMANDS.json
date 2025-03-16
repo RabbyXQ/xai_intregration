@@ -1,0 +1,14 @@
+{
+    "android.location": [
+        "android.location.LocationManager",
+        "android.location.Location",
+        "android.location.GnssStatus",
+        "android.location.GpsStatus"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

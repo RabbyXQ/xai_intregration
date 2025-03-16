@@ -1,0 +1,17 @@
+{
+    "android.service.carrier": [
+        "android.service.carrier.CarrierMessagingService"
+    ],
+    "android.telephony": [
+        "android.telephony.SmsMessage",
+        "android.telephony.SmsManager",
+        "android.telephony.SubscriptionManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

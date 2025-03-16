@@ -1,0 +1,21 @@
+{
+    "android.os": [
+        "android.os.UserHandle",
+        "android.os.UserManager"
+    ],
+    "android.content.pm": [
+        "android.content.pm.PackageManager",
+        "android.content.pm.CrossProfileApps"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

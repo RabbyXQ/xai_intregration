@@ -1,0 +1,20 @@
+{
+    "android.app": [
+        "android.app.Activity",
+        "android.app.PendingIntent"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.SmsManager"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

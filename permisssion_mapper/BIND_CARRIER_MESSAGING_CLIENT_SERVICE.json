@@ -1,0 +1,21 @@
+{
+    "android.app": [
+        "android.app.Service"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent",
+        "android.content.ServiceConnection"
+    ],
+    "android.os": [
+        "android.os.IBinder",
+        "android.os.Bundle"
+    ],
+    "android.telephony": [
+        "android.telephony.CarrierMessagingServiceManager",
+        "android.telephony.TelephonyManager"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

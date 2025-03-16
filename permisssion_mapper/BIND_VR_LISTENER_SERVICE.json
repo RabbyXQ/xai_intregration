@@ -1,0 +1,12 @@
+{
+    "android.service.vr": [
+        "android.service.vr.VrListenerService"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

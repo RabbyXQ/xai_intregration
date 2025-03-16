@@ -1,0 +1,17 @@
+{
+    "android.content.pm": [
+        "android.content.pm.PackageManager",
+        "android.content.pm.ApplicationInfo",
+        "android.content.pm.PackageInfo"
+    ],
+    "android.app": [
+        "android.app.usage.UsageStatsManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "android.telecom": [
+        "android.telecom.CallRedirectionService",
+        "android.telecom.TelecomManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

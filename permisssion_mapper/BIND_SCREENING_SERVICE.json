@@ -1,0 +1,14 @@
+{
+    "android.telecom": [
+        "android.telecom.CallScreeningService",
+        "android.telecom.TelecomManager",
+        "android.telecom.Call.Details"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

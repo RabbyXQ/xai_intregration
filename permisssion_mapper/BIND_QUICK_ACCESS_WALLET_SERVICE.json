@@ -1,0 +1,17 @@
+{
+    "android.service.quickaccesswallet": [
+        "android.service.quickaccesswallet.QuickAccessWalletService",
+        "android.service.quickaccesswallet.WalletCard",
+        "android.service.quickaccesswallet.GetWalletCardsRequest"
+    ],
+    "android.app": [
+        "android.app.PendingIntent"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

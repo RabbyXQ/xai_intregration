@@ -1,0 +1,16 @@
+{
+    "android.service.controls": [
+        "android.service.controls.ControlsProviderService",
+        "android.service.controls.Control"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.app": [
+        "android.app.PendingIntent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

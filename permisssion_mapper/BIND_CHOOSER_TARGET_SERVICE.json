@@ -1,0 +1,14 @@
+{
+    "android.service.chooser": [
+        "android.service.chooser.ChooserTarget",
+        "android.service.chooser.ChooserTargetService"
+    ],
+    "android.content": [
+        "android.content.Intent",
+        "android.content.Context",
+        "android.content.pm.ShortcutInfo"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

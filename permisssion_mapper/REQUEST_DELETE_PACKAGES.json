@@ -1,0 +1,10 @@
+{
+    "android.content": [
+        "android.content.Intent",
+        "android.content.pm.PackageInstaller",
+        "android.content.pm.PackageManager"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

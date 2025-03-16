@@ -1,0 +1,17 @@
+{
+    "android.widget": [
+        "android.widget.RemoteViews",
+        "android.widget.RemoteViewsService"
+    ],
+    "android.app": [
+        "android.appwidget.AppWidgetManager",
+        "android.app.Service"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

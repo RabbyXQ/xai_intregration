@@ -1,0 +1,12 @@
+{
+    "android.app": [
+        "android.app.AppOpsManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

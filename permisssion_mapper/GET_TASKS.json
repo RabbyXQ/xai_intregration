@@ -1,0 +1,12 @@
+{
+    "android.app": [
+        "android.app.ActivityManager",
+        "android.app.ActivityManager.RunningTaskInfo"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

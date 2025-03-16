@@ -1,0 +1,17 @@
+{
+    "android.provider": [
+        "android.provider.Telephony",
+        "android.provider.Telephony.Sms"
+    ],
+    "android.telephony": [
+        "android.telephony.SmsMessage",
+        "android.telephony.TelephonyManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

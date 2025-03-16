@@ -1,0 +1,18 @@
+{
+    "android.service.voice": [
+        "android.service.voice.VoiceInteractionService",
+        "android.service.voice.VoiceInteractionSession",
+        "android.service.voice.VoiceInteractionManagerService"
+    ],
+    "android.speech": [
+        "android.speech.RecognitionService",
+        "android.speech.SpeechRecognizer"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

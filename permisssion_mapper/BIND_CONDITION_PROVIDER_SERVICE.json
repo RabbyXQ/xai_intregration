@@ -1,0 +1,16 @@
+{
+    "android.service.notification": [
+        "android.service.notification.ConditionProviderService",
+        "android.service.notification.NotificationListenerService"
+    ],
+    "android.app": [
+        "android.app.NotificationManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

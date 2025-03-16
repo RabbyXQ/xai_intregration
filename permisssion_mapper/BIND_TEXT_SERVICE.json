@@ -1,0 +1,16 @@
+{
+    "android.view.textservice": [
+        "android.view.textservice.TextServicesManager",
+        "android.view.textservice.SpellCheckerService"
+    ],
+    "android.speech.tts": [
+        "android.speech.tts.TextToSpeech"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

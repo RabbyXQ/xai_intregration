@@ -1,0 +1,16 @@
+{
+    "android.media.midi": [
+        "android.media.midi.MidiDeviceService",
+        "android.media.midi.MidiManager",
+        "android.media.midi.MidiDeviceInfo",
+        "android.media.midi.MidiInputPort",
+        "android.media.midi.MidiOutputPort"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}
