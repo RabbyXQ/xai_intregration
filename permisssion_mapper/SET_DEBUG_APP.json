@@ -1,0 +1,14 @@
+{
+    "android.app": [
+        "android.app.ActivityManager"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "android.provider": [
+        "android.provider.Settings"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

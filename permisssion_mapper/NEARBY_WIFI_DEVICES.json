@@ -1,0 +1,29 @@
+{
+    "android.net": [
+      "android.net.wifi.WifiManager",
+      "android.net.wifi.WifiInfo",
+      "android.net.wifi.ScanResult",
+      "android.net.wifi.WifiConfiguration",
+      "android.net.wifi.WifiNetworkSpecifier",
+      "android.net.wifi.WifiP2pManager",
+      "android.net.wifi.WifiP2pConfig",
+      "android.net.wifi.WifiP2pGroup",
+      "android.net.wifi.WifiP2pDevice"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.BroadcastReceiver",
+      "android.content.Intent"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.util": [
+      "java.util.List"
+    ],
+    "java.lang": [
+      "java.lang.Exception",
+      "java.lang.SecurityException"
+    ]
+  }
+  

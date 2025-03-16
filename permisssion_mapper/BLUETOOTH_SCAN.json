@@ -1,0 +1,30 @@
+{
+    "android.bluetooth": [
+      "android.bluetooth.BluetoothAdapter",
+      "android.bluetooth.BluetoothDevice",
+      "android.bluetooth.BluetoothLeScanner",
+      "android.bluetooth.BluetoothScanCallback",
+      "android.bluetooth.BluetoothGatt",
+      "android.bluetooth.BluetoothGattCallback",
+      "android.bluetooth.BluetoothProfile"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Handler"
+    ],
+    "java.util": [
+      "java.util.List",
+      "java.util.Set"
+    ],
+    "java.lang": [
+      "java.lang.Exception",
+      "java.lang.SecurityException"
+    ]
+  }
+  

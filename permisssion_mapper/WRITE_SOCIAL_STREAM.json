@@ -1,0 +1,14 @@
+{
+    "android.provider": [
+        "android.provider.ContactsContract",
+        "android.provider.ContactsContract.StreamItems"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.ContentValues",
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

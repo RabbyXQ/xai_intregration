@@ -1,0 +1,16 @@
+{
+    "android.provider": [
+        "android.provider.Settings"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.ContentValues",
+        "android.content.Context"
+    ],
+    "android.database": [
+        "android.database.Cursor"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

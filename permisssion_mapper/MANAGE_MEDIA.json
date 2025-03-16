@@ -1,0 +1,21 @@
+{
+    "android.media": [
+        "android.media.MediaMetadataRetriever",
+        "android.media.MediaScannerConnection",
+        "android.media.MediaRecorder"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.provider": [
+        "android.provider.MediaStore"
+    ],
+    "java.io": [
+        "java.io.File"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

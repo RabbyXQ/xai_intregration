@@ -1,0 +1,20 @@
+{
+    "android.telephony": [
+      "android.telephony.SmsManager",
+      "android.telephony.SmsMessage",
+      "android.telephony.TelephonyManager"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ]
+  }
+  

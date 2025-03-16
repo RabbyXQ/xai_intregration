@@ -1,0 +1,28 @@
+{
+    "android.bluetooth": [
+      "android.bluetooth.BluetoothAdapter",
+      "android.bluetooth.BluetoothLeAdvertiser",
+      "android.bluetooth.le.AdvertiseData",
+      "android.bluetooth.le.AdvertiseCallback",
+      "android.bluetooth.le.AdvertiseSettings",
+      "android.bluetooth.le.AdvertiseRecord"
+    ],
+    "android.content": [
+      "android.content.BroadcastReceiver",
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Handler"
+    ],
+    "java.io": [
+      "java.io.IOException"
+    ],
+    "java.lang": [
+      "java.lang.Exception",
+      "java.lang.SecurityException"
+    ]
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "android.content": [
+        "android.content.Intent",
+        "android.content.BroadcastReceiver",
+        "android.content.Context"
+    ],
+    "android.content.pm": [
+        "android.content.pm.PackageManager"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

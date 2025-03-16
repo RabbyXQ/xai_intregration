@@ -1,0 +1,12 @@
+{
+    "android.content": [
+        "android.content.Intent",
+        "android.content.Context"
+    ],
+    "android.net": [
+        "android.net.Uri"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "android.app.admin": [
+      "android.app.admin.DevicePolicyManager",
+      "android.app.admin.DeviceAdminReceiver",
+      "android.app.admin.DevicePolicyManager.DeviceAdminReceiver",
+      "android.app.admin.DevicePolicyManager.PasswordMetrics",
+      "android.app.admin.DevicePolicyManager.WifiLock",
+      "android.app.admin.DevicePolicyManager.ResetPasswordRequest"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.BroadcastReceiver",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ],
+    "javax": [
+      "javax.xml.parsers.DocumentBuilderFactory"
+    ]
+  }
+  

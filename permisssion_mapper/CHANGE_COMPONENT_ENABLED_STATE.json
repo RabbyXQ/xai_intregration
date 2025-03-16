@@ -1,0 +1,20 @@
+{
+    "android.content.pm": [
+      "android.content.pm.PackageManager",
+      "android.content.pm.ComponentInfo",
+      "android.content.pm.ActivityInfo",
+      "android.content.pm.ServiceInfo",
+      "android.content.pm.BroadcastReceiverInfo",
+      "android.content.pm.ApplicationInfo"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.ComponentName"
+    ],
+    "java.lang": [
+      "java.lang.String",
+      "java.lang.Exception"
+    ]
+  }
+  

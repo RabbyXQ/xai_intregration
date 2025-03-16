@@ -1,0 +1,18 @@
+{
+    "android.os": [
+        "android.os.FactoryTest",
+        "android.os.SystemProperties"
+    ],
+    "android.hardware": [
+        "android.hardware.SensorManager",
+        "android.hardware.Camera"
+    ],
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Service"
+    ],
+    "java.lang": [
+        "java.lang.System",
+        "java.lang.Runtime"
+    ]
+}

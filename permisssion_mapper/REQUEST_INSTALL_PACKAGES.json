@@ -1,0 +1,24 @@
+{
+    "android.content.pm": [
+      "android.content.pm.PackageManager",
+      "android.content.pm.PackageInfo",
+      "android.content.pm.ApplicationInfo",
+      "android.content.pm.PackageInstaller",
+      "android.content.pm.InstallSourceInfo",
+      "android.content.pm.PermissionInfo",
+      "android.content.pm.ActivityInfo"
+    ],
+    "android.app": [
+      "android.app.DownloadManager"
+    ],
+    "android.net": [
+      "android.net.Uri"
+    ],
+    "java.io": [
+      "java.io.File"
+    ],
+    "java.lang": [
+      "java.lang.SecurityException"
+    ]
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "android.os": [
+        "android.os.RecoverySystem",
+        "android.os.PowerManager"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.app": [
+        "android.app.admin.DevicePolicyManager"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

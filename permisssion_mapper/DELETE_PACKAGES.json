@@ -1,0 +1,18 @@
+{
+    "android.content": [
+      "android.content.Context",
+      "android.content.pm.PackageManager",
+      "android.content.pm.ApplicationInfo",
+      "android.content.pm.PackageInfo",
+      "android.content.pm.PackageInstaller"
+    ],
+    "android.os": [
+      "android.os.Environment",
+      "android.os.SystemProperties"
+    ],
+    "java.io": [
+      "java.io.File",
+      "java.io.IOException"
+    ]
+  }
+  

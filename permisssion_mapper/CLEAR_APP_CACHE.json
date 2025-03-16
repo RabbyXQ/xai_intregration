@@ -1,0 +1,18 @@
+{
+    "android.content": [
+      "android.content.Context",
+      "android.content.pm.PackageManager",
+      "android.content.SharedPreferences"
+    ],
+    "android.os": [
+      "android.os.StatFs"
+    ],
+    "java.io": [
+      "java.io.File",
+      "java.io.IOException"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ]
+  }
+  

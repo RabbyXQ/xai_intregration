@@ -1,0 +1,15 @@
+{
+    "android.content.pm": [
+        "android.content.pm.PackageInstaller",
+        "android.content.pm.PackageManager"
+    ],
+    "android.app": [
+        "android.app.PendingIntent"
+    ],
+    "android.os": [
+        "android.os.UserHandle"
+    ],
+    "java.io": [
+        "java.io.File"
+    ]
+}

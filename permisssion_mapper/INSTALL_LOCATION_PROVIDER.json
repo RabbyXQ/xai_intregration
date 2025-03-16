@@ -1,0 +1,16 @@
+{
+    "android.location": [
+        "android.location.LocationManager",
+        "android.location.LocationProvider"
+    ],
+    "android.content": [
+        "android.content.pm.PackageManager",
+        "android.content.Context"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.System"
+    ]
+}

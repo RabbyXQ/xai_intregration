@@ -1,0 +1,25 @@
+{
+    "android.app": [
+      "android.app.Notification",
+      "android.app.NotificationManager",
+      "android.app.NotificationChannel",
+      "android.app.PendingIntent",
+      "android.app.Notification.Builder"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.util": [
+      "java.util.Date"
+    ],
+    "java.lang": [
+      "java.lang.Exception",
+      "java.lang.SecurityException"
+    ]
+  }
+  

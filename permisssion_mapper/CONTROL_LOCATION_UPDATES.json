@@ -1,0 +1,23 @@
+{
+    "android.location": [
+      "android.location.LocationManager",
+      "android.location.LocationListener",
+      "android.location.LocationProvider",
+      "android.location.GpsStatus",
+      "android.location.Location"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Handler",
+      "android.os.Looper"
+    ],
+    "java.util": [
+      "java.util.Timer",
+      "java.util.TimerTask"
+    ],
+    "java.lang": [
+      "java.lang.String",
+      "java.lang.Exception"
+    ]
+  }
+  

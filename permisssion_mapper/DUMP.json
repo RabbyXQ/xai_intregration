@@ -1,0 +1,15 @@
+{
+    "android.os": [
+        "android.os.Debug",
+        "android.os.Process",
+        "android.os.SystemClock"
+    ],
+    "android.app": [
+        "android.app.ActivityManager",
+        "android.app.Application"
+    ],
+    "java.lang": [
+        "java.lang.Runtime",
+        "java.lang.Process"
+    ]
+}

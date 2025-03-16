@@ -1,0 +1,16 @@
+{
+    "android.app": [
+        "android.app.AlarmManager",
+        "android.app.PendingIntent"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.os": [
+        "android.os.SystemClock"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

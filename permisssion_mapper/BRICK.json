@@ -1,0 +1,13 @@
+{
+    "android.os": [
+        "android.os.PowerManager",
+        "android.os.SystemProperties"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

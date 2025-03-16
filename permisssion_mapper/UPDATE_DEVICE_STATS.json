@@ -1,0 +1,16 @@
+{
+    "android.app": [
+        "android.app.ActivityManager"
+    ],
+    "android.os": [
+        "android.os.BatteryStats",
+        "android.os.PowerManager",
+        "android.os.SystemClock"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "android.content": [
+        "android.content.Intent",
+        "android.content.BroadcastReceiver",
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

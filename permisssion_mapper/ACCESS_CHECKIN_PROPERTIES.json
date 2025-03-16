@@ -1,0 +1,22 @@
+{
+    "android.provider": [
+      "android.provider.Settings",
+      "android.provider.Checkin",
+      "android.provider.Settings.System"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.SharedPreferences",
+      "android.content.ContentResolver"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.io": [
+      "java.io.File"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ]
+  }
+  

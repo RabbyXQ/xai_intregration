@@ -1,0 +1,21 @@
+{
+    "android.provider": [
+      "android.provider.Settings"
+    ],
+    "android.content": [
+      "android.content.ContentResolver",
+      "android.content.Context",
+      "android.content.SharedPreferences"
+    ],
+    "android.os": [
+      "android.os.Build",
+      "android.os.SystemProperties"
+    ],
+    "android.app": [
+      "android.app.AlertDialog"
+    ],
+    "java.lang": [
+      "java.lang.SecurityException"
+    ]
+  }
+  

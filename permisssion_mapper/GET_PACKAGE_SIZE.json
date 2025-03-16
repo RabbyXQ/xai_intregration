@@ -1,0 +1,16 @@
+{
+    "android.content.pm": [
+        "android.content.pm.PackageManager",
+        "android.content.pm.PackageStats"
+    ],
+    "android.app": [
+        "android.app.usage.StorageStats",
+        "android.app.usage.StorageStatsManager"
+    ],
+    "android.os": [
+        "android.os.storage.StorageManager"
+    ],
+    "java.io": [
+        "java.io.File"
+    ]
+}

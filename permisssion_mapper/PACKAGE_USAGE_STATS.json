@@ -1,0 +1,16 @@
+{
+    "android.app.usage": [
+        "android.app.usage.UsageStats",
+        "android.app.usage.UsageStatsManager",
+        "android.app.usage.UsageEvents"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ],
+    "java.util": [
+        "java.util.List"
+    ]
+}

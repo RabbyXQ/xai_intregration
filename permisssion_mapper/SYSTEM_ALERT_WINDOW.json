@@ -1,0 +1,26 @@
+{
+    "android.view": [
+      "android.view.WindowManager",
+      "android.view.WindowManager.LayoutParams",
+      "android.view.View",
+      "android.view.Gravity"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.app": [
+      "android.app.Activity",
+      "android.app.Service",
+      "android.app.Notification",
+      "android.app.PendingIntent"
+    ],
+    "java.lang": [
+      "java.lang.Exception"
+    ],
+    "javax.crypto": [
+      "javax.crypto.Cipher"
+    ]
+  }
+  

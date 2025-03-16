@@ -1,0 +1,21 @@
+{
+    "android.os": [
+      "android.os.BatteryManager",
+      "android.os.PowerManager",
+      "android.os.BatteryManager.OnBatteryStatusChangedListener"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.BroadcastReceiver",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "java.lang": [
+      "java.lang.Integer",
+      "java.lang.Float"
+    ],
+    "java.util": [
+      "java.util.List"
+    ]
+  }
+  

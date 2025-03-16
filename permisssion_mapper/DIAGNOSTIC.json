@@ -1,0 +1,30 @@
+{
+    "android.app": [
+      "android.app.ActivityManager",
+      "android.app.ApplicationErrorReport",
+      "android.app.DiagnosticService"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+      "android.os.Build",
+      "android.os.SystemClock"
+    ],
+    "java.io": [
+      "java.io.File",
+      "java.io.FileOutputStream",
+      "java.io.IOException"
+    ],
+    "java.lang": [
+      "java.lang.Exception",
+      "java.lang.System"
+    ],
+    "javax.net": [
+      "javax.net.ssl.SSLSocket",
+      "javax.net.ssl.HttpsURLConnection"
+    ]
+  }
+  

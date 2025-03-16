@@ -1,0 +1,16 @@
+{
+    "android.provider": [
+        "android.provider.SyncStateContract",
+        "android.provider.SyncStateContract.Columns"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.Context"
+    ],
+    "android.database": [
+        "android.database.Cursor"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

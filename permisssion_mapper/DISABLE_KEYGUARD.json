@@ -1,0 +1,12 @@
+{
+    "android.app": [
+        "android.app.KeyguardManager",
+        "android.app.KeyguardManager.KeyguardLock"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

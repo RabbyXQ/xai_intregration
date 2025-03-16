@@ -1,0 +1,27 @@
+{
+    "android.accounts": [
+      "android.accounts.AccountManager",
+      "android.accounts.Account",
+      "android.accounts.AuthenticatorDescription",
+      "android.accounts.AccountAuthenticator",
+      "android.accounts.AccountManagerFuture"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Handler",
+      "android.os.Message"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ],
+    "java.util": [
+      "java.util.List",
+      "java.util.ArrayList"
+    ]
+  }
+  

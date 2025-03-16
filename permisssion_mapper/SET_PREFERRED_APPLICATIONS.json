@@ -1,0 +1,13 @@
+{
+    "android.content.pm": [
+        "android.content.pm.PackageManager",
+        "android.content.pm.ResolveInfo"
+    ],
+    "android.content": [
+        "android.content.ComponentName",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "android.net": [
+      "android.net.VpnService",
+      "android.net.ConnectivityManager",
+      "android.net.Network",
+      "android.net.NetworkRequest",
+      "android.net.NetworkCapabilities"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent"
+    ],
+    "android.os": [
+      "android.os.ParcelFileDescriptor",
+      "android.os.Bundle"
+    ],
+    "java.io": [
+      "java.io.IOException"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "android.app": [
+        "android.app.Notification",
+        "android.app.NotificationManager",
+        "android.app.PendingIntent"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

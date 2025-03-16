@@ -1,0 +1,17 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.SubscriptionManager",
+        "android.telephony.ServiceState"
+    ],
+    "android.os": [
+        "android.os.SystemProperties"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

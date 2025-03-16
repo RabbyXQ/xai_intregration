@@ -1,0 +1,27 @@
+{
+    "android.accessibility": [
+      "android.accessibilityservice.AccessibilityService",
+      "android.accessibilityservice.AccessibilityServiceInfo",
+      "android.accessibilityservice.AccessibilityServiceInfo.Capability",
+      "android.accessibilityservice.GestureDescription",
+      "android.accessibilityservice.GestureDescription.Stroke",
+      "android.accessibilityservice.AccessibilityServiceInfo",
+      "android.accessibilityservice.AccessibilityServiceInfo.Capability"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String",
+      "java.lang.Class"
+    ],
+    "javax": [
+      "javax.xml.parsers.DocumentBuilderFactory"
+    ]
+  }
+  

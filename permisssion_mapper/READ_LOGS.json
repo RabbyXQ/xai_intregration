@@ -1,0 +1,21 @@
+{
+    "android.util": [
+        "android.util.Log"
+    ],
+    "android.app": [
+        "android.app.ActivityManager",
+        "android.app.Application"
+    ],
+    "android.os": [
+        "android.os.Process",
+        "android.os.Debug"
+    ],
+    "java.io": [
+        "java.io.BufferedReader",
+        "java.io.InputStreamReader"
+    ],
+    "java.lang": [
+        "java.lang.Runtime",
+        "java.lang.Process"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "android.app": [
+      "android.app.WallpaperService",
+      "android.app.WallpaperManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent"
+    ],
+    "android.graphics": [
+      "android.graphics.Bitmap",
+      "android.graphics.drawable.Drawable"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ]
+  }
+  

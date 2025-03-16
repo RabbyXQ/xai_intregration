@@ -1,0 +1,16 @@
+{
+    "android.media": [
+        "android.media.session.MediaController",
+        "android.media.session.MediaSession",
+        "android.media.AudioManager"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "android.view": [
+        "android.view.KeyEvent"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "android.content": [
+        "android.content.Intent",
+        "android.content.Context"
+    ],
+    "android.graphics": [
+        "android.graphics.Bitmap"
+    ],
+    "android.net": [
+        "android.net.Uri"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

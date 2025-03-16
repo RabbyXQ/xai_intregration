@@ -1,0 +1,11 @@
+{
+    "android.app": [
+        "android.app.ActivityManager"
+    ],
+    "android.os": [
+        "android.os.Process"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

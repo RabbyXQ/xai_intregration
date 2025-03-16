@@ -1,0 +1,30 @@
+{
+    "android.inputmethodservice": [
+      "android.inputmethodservice.InputMethodService",
+      "android.inputmethodservice.Keyboard",
+      "android.inputmethodservice.KeyboardView",
+      "android.inputmethodservice.InputMethodSession",
+      "android.inputmethodservice.InputMethodSession.Callback",
+      "android.inputmethodservice.EditorInfo"
+    ],
+    "android.view.inputmethod": [
+      "android.view.inputmethod.InputConnection",
+      "android.view.inputmethod.InputMethod",
+      "android.view.inputmethod.InputMethodManager",
+      "android.view.inputmethod.InputMethodSubtype"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ],
+    "javax": [
+      "javax.swing.JTextField"
+    ]
+  }
+  

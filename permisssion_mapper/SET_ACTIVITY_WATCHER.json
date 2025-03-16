@@ -1,0 +1,17 @@
+{
+    "android.app": [
+        "android.app.ActivityManager",
+        "android.app.IActivityController"
+    ],
+    "android.content": [
+        "android.content.pm.PackageManager",
+        "android.content.Context"
+    ],
+    "android.os": [
+        "android.os.IBinder",
+        "android.os.RemoteException"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

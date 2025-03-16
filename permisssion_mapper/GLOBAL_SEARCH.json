@@ -1,0 +1,16 @@
+{
+    "android.app": [
+        "android.app.SearchManager"
+    ],
+    "android.content": [
+        "android.content.SearchRecentSuggestionsProvider",
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.provider": [
+        "android.provider.SearchRecentSuggestions"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

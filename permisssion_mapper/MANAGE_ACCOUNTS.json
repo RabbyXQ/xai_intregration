@@ -1,0 +1,17 @@
+{
+    "android.accounts": [
+        "android.accounts.AccountManager",
+        "android.accounts.Account",
+        "android.accounts.AuthenticatorDescription"
+    ],
+    "android.content": [
+        "android.content.Context",
+        "android.content.Intent"
+    ],
+    "android.os": [
+        "android.os.Bundle"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

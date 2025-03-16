@@ -1,0 +1,29 @@
+{
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver",
+      "android.content.ContentResolver"
+    ],
+    "android.os": [
+      "android.os.Environment",
+      "android.os.StatFs"
+    ],
+    "android.provider": [
+      "android.provider.MediaStore",
+      "android.provider.DocumentsContract"
+    ],
+    "java.io": [
+      "java.io.File",
+      "java.io.FileOutputStream",
+      "java.io.FileInputStream",
+      "java.io.BufferedReader",
+      "java.io.BufferedWriter",
+      "java.io.FileWriter",
+      "java.io.IOException"
+    ],
+    "javax.crypto": [
+      "javax.crypto.Cipher"
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "android.content": [
+      "android.content.Context",
+      "android.content.SharedPreferences",
+      "android.content.res.AssetManager"
+    ],
+    "android.os": [
+      "android.os.Environment",
+      "android.os.FileUtils"
+    ],
+    "android.util": [
+      "android.util.Log"
+    ],
+    "java.io": [
+      "java.io.File",
+      "java.io.IOException",
+      "java.io.FileOutputStream"
+    ]
+  }
+  

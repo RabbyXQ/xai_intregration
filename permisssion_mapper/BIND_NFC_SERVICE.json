@@ -1,0 +1,26 @@
+{
+    "android.nfc": [
+      "android.nfc.NfcAdapter",
+      "android.nfc.NfcManager",
+      "android.nfc.tech.NfcA",
+      "android.nfc.tech.NfcB",
+      "android.nfc.tech.NfcF",
+      "android.nfc.tech.NfcV",
+      "android.nfc.tech.IsoDep",
+      "android.nfc.tech.MifareClassic",
+      "android.nfc.tech.MifareUltralight",
+      "android.nfc.cardemulation.CardEmulation",
+      "android.nfc.cardemulation.NfcCardEmulation"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String"
+    ]
+  }
+  

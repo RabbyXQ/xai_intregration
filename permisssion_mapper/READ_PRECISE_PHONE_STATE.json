@@ -1,0 +1,14 @@
+{
+    "android.telephony": [
+        "android.telephony.TelephonyManager",
+        "android.telephony.CellInfo",
+        "android.telephony.ServiceState",
+        "android.telephony.SignalStrength"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

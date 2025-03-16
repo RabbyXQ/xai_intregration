@@ -1,0 +1,23 @@
+{
+    "android.service.notification": [
+      "android.service.notification.NotificationListenerService",
+      "android.service.notification.StatusBarNotification",
+      "android.service.notification.Notification",
+      "android.service.notification.NotificationManager",
+      "android.service.notification.NotificationChannel"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "android.os": [
+      "android.os.Bundle",
+      "android.os.Parcelable"
+    ],
+    "java.lang": [
+      "java.lang.String",
+      "java.lang.Exception"
+    ]
+  }
+  

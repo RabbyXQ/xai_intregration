@@ -1,0 +1,15 @@
+{
+    "android.location": [
+        "android.location.Location",
+        "android.location.LocationManager"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "android.provider": [
+        "android.provider.Settings"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

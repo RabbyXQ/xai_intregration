@@ -1,0 +1,15 @@
+{
+    "android.app": [
+        "android.app.Activity",
+        "android.app.Instrumentation"
+    ],
+    "android.view": [
+        "android.view.KeyEvent"
+    ],
+    "android.os": [
+        "android.os.SystemClock"
+    ],
+    "java.lang": [
+        "java.lang.Runtime"
+    ]
+}

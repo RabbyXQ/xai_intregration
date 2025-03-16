@@ -1,0 +1,30 @@
+{
+    "android.appwidget": [
+      "android.appwidget.AppWidgetManager",
+      "android.appwidget.AppWidgetProvider",
+      "android.appwidget.AppWidgetProviderInfo",
+      "android.appwidget.AppWidgetHost",
+      "android.appwidget.AppWidgetHostView",
+      "android.appwidget.AppWidgetProviderInfo",
+      "android.appwidget.AppWidgetManager",
+      "android.appwidget.AppWidgetHost",
+      "android.appwidget.AppWidgetHostView"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.BroadcastReceiver",
+      "android.content.Intent",
+      "android.content.IntentFilter"
+    ],
+    "android.os": [
+      "android.os.Bundle"
+    ],
+    "java.lang": [
+      "java.lang.String",
+      "java.lang.Class"
+    ],
+    "javax": [
+      "javax.xml.parsers.DocumentBuilderFactory"
+    ]
+  }
+  

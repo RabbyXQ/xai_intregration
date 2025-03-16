@@ -1,0 +1,13 @@
+{
+    "android.provider": [
+        "android.provider.UserDictionary"
+    ],
+    "android.content": [
+        "android.content.ContentResolver",
+        "android.content.ContentValues",
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

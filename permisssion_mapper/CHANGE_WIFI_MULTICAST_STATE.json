@@ -1,0 +1,12 @@
+{
+    "android.net.wifi": [
+        "android.net.wifi.WifiManager",
+        "android.net.wifi.WifiManager.MulticastLock"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.lang": [
+        "java.lang.String"
+    ]
+}

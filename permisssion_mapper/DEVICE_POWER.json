@@ -1,0 +1,18 @@
+{
+    "android.os": [
+      "android.os.PowerManager",
+      "android.os.PowerManager.WakeLock"
+    ],
+    "android.app": [
+      "android.app.ActivityManager"
+    ],
+    "android.content": [
+      "android.content.Context",
+      "android.content.Intent",
+      "android.content.BroadcastReceiver"
+    ],
+    "java.lang": [
+      "java.lang.System"
+    ]
+  }
+  

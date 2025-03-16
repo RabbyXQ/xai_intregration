@@ -1,0 +1,20 @@
+{
+    "android.os": [
+        "android.os.storage.StorageManager",
+        "android.os.Environment"
+    ],
+    "android.system": [
+        "android.system.Os",
+        "android.system.StructStatVfs"
+    ],
+    "android.content": [
+        "android.content.Context"
+    ],
+    "java.io": [
+        "java.io.File"
+    ],
+    "java.nio.file": [
+        "java.nio.file.Files",
+        "java.nio.file.Paths"
+    ]
+}
